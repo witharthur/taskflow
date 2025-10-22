@@ -1,6 +1,3 @@
-Interview Questions:
-
-
 ### **1. How do you select elements in the DOM?**
 document.getElementById('id');
 document.getElementsByClassName('class');
